@@ -4,7 +4,7 @@
 "Me":{
   "Name": "Sk Zubair Ahmed",
   "Location": "Balasore, Odisha, IN",
-  "Timezone": "GMT +5:30",
+  "Timezone": "UTC +05:30",
 
   "code":{
     "JavaScript",
